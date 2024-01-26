@@ -1,10 +1,8 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
-
-```
-yarn
-yarn dev
-```
+# r3f-multiplayer-pirate-card-game
 
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+![Video thumbnail](https://github.com/wass08/r3f-multiplayer-pirate-card-game/assets/6551176/42636005-b1ea-4fe3-8a6e-4d4e8b9eed61)
+
+[Video tutorial](https://youtu.be/1dVSudmc2DA)
+
+[Live demo](https://r3f-multiplayer-pirate-card-game.vercel.app/)
