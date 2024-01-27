@@ -1664,10 +1664,10 @@ pirates@^4.0.1:
   resolved "https://registry.yarnpkg.com/pirates/-/pirates-4.0.6.tgz#3018ae32ecfcff6c29ba2267cbf21166ac1f36b9"
   integrity sha512-saLsH7WeYYPiD25LDuLRRY/i+6HaPYr6G1OUlN39otzkSTxKnubR9RTxS3/Kk50s1g2JTgFwWQDQyplC5/SHZg==
 
-playroomkit@^0.0.60:
-  version "0.0.60"
-  resolved "https://registry.yarnpkg.com/playroomkit/-/playroomkit-0.0.60.tgz#928fc2131c1d08dc113b66fd893c603a9ba38c94"
-  integrity sha512-o0xe8VXNOMAX8XH+81H9XKLvzb54LakmGh9MqqBbSu0uHL7RhuikluBr4gOnrjoxIn5QTTcCXVTu9IWqtdvP0A==
+playroomkit@^0.0.61:
+  version "0.0.61"
+  resolved "https://registry.yarnpkg.com/playroomkit/-/playroomkit-0.0.61.tgz#b629e29180c7f019a1fa5dfa8e45d4dedf0a511f"
+  integrity sha512-BUjGkZZcV5OQ29sTmjjI3Ad0SZLRvuBYWAdu4MqhnCjiaHTDJp4KvacVx6rJEJe9jdamtCimkZ/5XXuGm9h2AQ==
 
 postcss-import@^15.1.0:
   version "15.1.0"
